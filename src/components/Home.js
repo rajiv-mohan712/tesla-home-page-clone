@@ -3,7 +3,7 @@ import Section from "./Section";
 
 function Home() {
   return (
-    <div>
+    <div className="parent">
       <Section
         title="Model S"
         description="Order Online for Touchless Delivery"

@@ -11,7 +11,7 @@ function Section({
 }) {
   return (
     <div
-      className=" container h-screen w-screen  bg-cover bg-no-repeat bg-center flex flex-col "
+      className=" container h-screen w-screen  bg-cover bg-no-repeat bg-center flex flex-col section "
       style={{ backgroundImage: `url(/images/${bgImage})` }}
     >
       <div className="flex flex-col justify-items-center items-center pt-24 flex-grow">
